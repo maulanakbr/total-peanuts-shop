@@ -2,6 +2,7 @@
   "name": "total_peanuts",
   "version": "0.1.0",
   "private": true,
+  "author": "Maulana Akbar Yudistika",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
